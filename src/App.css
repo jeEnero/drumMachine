@@ -1,0 +1,23 @@
+
+
+
+body{
+    background-image: url("https://i.pinimg.com/564x/17/0d/80/170d80ca1321ecea5ec6d1cd280de7dc.jpg");
+    max-height: 100%;
+    max-width: 100%;
+    font-style: italic;
+}
+.text-center{
+color: blueviolet ;
+margin-top: 50px;
+text-align: center;
+border: 10px dotted ;
+
+z-index: 2;
+box-sizing: border-box;
+}
+.text-cente{
+    text-align: center;
+    margin-top: 50px;
+    color: brown;
+}
